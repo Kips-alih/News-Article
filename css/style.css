@@ -1,3 +1,11 @@
 h2.introduction{
   color: blue;
 }
+p.introduction{
+  color: red;
+  font-family: sans-serif;
+  font-style: italic;
+}
+img.introduction{
+  padding-left: 100px;
+}
